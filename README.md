@@ -1,1 +1,2 @@
 # Javascript-Developer-1-superbadge
+This repository has all the LWC components and Apex classes that are required to develope application to earn superbadge for SFCC Javascript Developer - 1 Certificate.
